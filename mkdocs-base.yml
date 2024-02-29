@@ -96,7 +96,6 @@ markdown_extensions:
 
 #Mkdocs plugins   
 plugins:
-  section-index: {}
   search: 
     separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   git-revision-date-localized: 
