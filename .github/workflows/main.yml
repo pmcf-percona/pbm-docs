@@ -1,56 +1,29 @@
-name: Check docs with Vale
-on: 
-  pull_request:
+name: ci 
+on:
+  push:
     branches:
+      - master 
       - main
-
-
+permissions:
+  contents: write
 jobs:
-  vale:
-    name: runner / vale
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      #Configure git
-      - name: Configure git
-        env:
-          ROBOT_TOKEN: ${{ secrets.ROBOT_TOKEN }}
+      - uses: actions/checkout@v4
+      - name: Configure Git Credentials
         run: |
-          git config --global url."https://percona-platform-robot:${ROBOT_TOKEN}@github.com".insteadOf "https://github.com"
-          git config user.name "GitHub Action"
-          git config user.email "github-action@users.noreply.github.com"
-          git config user.password "${ROBOT_TOKEN}"
-          echo "GIT_USER=percona-platform-robot:${ROBOT_TOKEN}" >> $GITHUB_ENV
-      
-      #Check spelling
-      - name: Spell check
-        uses: tj-actions/changed-files@v35
-        id: changed-files
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+      - uses: actions/setup-python@v5
         with:
-          files: docs/*.md
-      - uses: DavidAnson/markdownlint-cli2-action@v10
-        continue-on-error: true
-        if: steps.changed-files.outputs.any_changed == 'true'
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v4
         with:
-          command: config
-          globs: |
-            .markdownlint-cli2.yaml
-            ${{ steps.changed-files.outputs.all_changed_files }}
-#        separator: ","
-
-      #Run check
-      - name: reviewdog
-        uses: errata-ai/vale-action@reviewdog
-        with: 
-          vale_flags: "--glob=*.md"
-#          fail_on_error: true
-          reporter: github-check
-        env:
-          # Required, set by GitHub actions automatically:
-          # https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-
-
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install mkdocs-material 
+      - run: mkdocs gh-deploy --force
