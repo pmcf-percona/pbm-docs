@@ -7,6 +7,8 @@
 .md-tabs {
     background-color: var(--md-primary-fg-color--dark)
 }
-.superNav {
+.superNav,
+.md-search__form,
+.md-nav__source {
     background-color: var(--aqua900);
 }
