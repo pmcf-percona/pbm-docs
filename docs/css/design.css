@@ -127,6 +127,7 @@
     --md-footer-fg-color: #FBFBFB;
     --md-footer-fg-color--light: rgba(251,251,251,0.72);
     --md-footer-fg-color--lighter: rgba(251,251,251,0.4);
+    --md-footer-bg-color: var(--stone800);
     --md-footer-bg-color--dark: var(--stone800);
 
     /* Code */
