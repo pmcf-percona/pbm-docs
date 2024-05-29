@@ -3,6 +3,7 @@
 site_name: Percona Backup for MongoDB
 site_description: documentation
 site_author: Percona LLC
+site_url: 'https://pmcf-percona.github.io/pbm-docs/'
 copyright: >-
   <a href="https://www.percona.com/about">Percona LLC</a> and its affiliates &copy; 2024 — <a href="#" onclick="Osano.cm.showDrawer('osano-cm-dom-info-dialog-open')">Cookie Preferences</a>
 repo_name: percona/pbm-docs
