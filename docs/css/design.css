@@ -672,6 +672,12 @@ i[warning] [class*="moji"] {
     display: none;
 }
 
+/* Mike Version Select */
+
+.md-version__link {
+
+}
+
 /* Media queries */
 
 @media screen and (max-width: 76.1875em) {
