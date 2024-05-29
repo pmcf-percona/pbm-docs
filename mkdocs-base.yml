@@ -53,7 +53,7 @@ extra_css:
 extra_javascript:
   - js/promptremover.js
   - js/consent.js
-  - js/percona-select.js
+  # - js/percona-select.js
 
 markdown_extensions:
   abbr: {}
@@ -99,6 +99,11 @@ plugins:
   search: 
     separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   tags: {}
+
+extra:
+  version:
+    provider: mike
+
 nav:
   - Home: index.md
   - Features: 
