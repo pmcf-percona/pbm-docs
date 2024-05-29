@@ -705,10 +705,10 @@ i[warning] [class*="moji"] {
 }
 [dir="ltr"] .md-version__link {
     padding-left: 0.5em;
-    padding-right: 1.55em;
+    padding-right: 1.4375em;
 }
 [dir="rtl"] .md-version__link {
-    padding-left: 1.55em;
+    padding-left: 1.4375em;
     padding-right: 0.5em;
 }
 
