@@ -679,13 +679,12 @@ i[warning] [class*="moji"] {
     font-size: 0.9rem;
     font-weight: 700;
     line-height: 1;
+    padding: 0.5em;
 }
 .md-version__current {
-
     top: 1px;
-    padding: 0.5em;
-    margin-left: 0.25em;
-    margin-right: 0.25em;
+    margin-left: 0.25em !important;
+    margin-right: 0.25em !important;
     border-radius: 0.1rem;
     background-color: rgba(0,0,0,0.2);
 }
