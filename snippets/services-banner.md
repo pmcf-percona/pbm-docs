@@ -2,7 +2,7 @@
 
 ## Get expert help { .title }
 
-If you need assistance, visit the community forum for comprehensive and free database knowledge, or contact our Percona Database Experts for professional support and services.
+If you need assistance, visit the community forum for comprehensive and free database knowledge, or contact our Percona Database Experts for professional support and services. 
 
 <div class="actions" markdown>
 
