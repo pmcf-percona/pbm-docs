@@ -5,6 +5,7 @@ site_description: documentation
 site_author: Percona LLC
 site_url: 'https://pmcf-percona.github.io/pbm-docs/'
 copyright: >-
+  <div style="margin:0.5em 0"><img src="assets/percona-ologo.svg" width="78" height="69" alt="Percona's official logo"/></div>
   <a href="https://www.percona.com/about">Percona LLC</a> and its affiliates &copy; 2024 — <a href="#" onclick="Osano.cm.showDrawer('osano-cm-dom-info-dialog-open')">Cookie Preferences</a>
 repo_name: percona/pbm-docs
 repo_url: https://github.com/percona/pbm-docs

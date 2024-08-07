@@ -1,6 +1,6 @@
-
-
 <div data-banner markdown>
+
+<div style="margin:0 0 0.75em"><img src="assets/percona-ologo.svg" width="78" height="69" alt="Percona's official logo"/></div>
 
 ## Get expert help { .title }
 
