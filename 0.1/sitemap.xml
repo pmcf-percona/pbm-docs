@@ -3,461 +3,369 @@
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/index.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/404.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/copyright.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/installation.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/intro.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/pmm.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/trademark-policy.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/details/architecture.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/details/authentication.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/details/cli.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/details/control-collections.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/details/deployments.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/details/pbm-agent.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/details/storage-config-example.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/details/storage-configuration.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/details/versions.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/features/backup-types.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/features/comparison.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/features/incremental-backup.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/features/logical.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/features/physical.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/features/point-in-time-recovery.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/features/selective-backup.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/features/snapshots.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/install/backup-storage.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/install/configure-authentication.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/install/docker.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/install/initial-setup.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/install/repos.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/install/source.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/install/start-pbm-agent.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/install/tarball.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/manage/automate-s3-access.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/manage/configure-remotely.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/manage/overview.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/manage/uninstalling.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/manage/upgrading.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/reference/backup-options.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/reference/config.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/reference/configuration-options.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/reference/contributing.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/reference/glossary.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/reference/pbm-commands.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/reference/pitr-options.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/reference/restore-options.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/0.5.0.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.0.0.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.1.0.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.1.1.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.1.3.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.2.0.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.2.1.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.3.0.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.3.1.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.3.2.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.3.3.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.3.4.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.4.0.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.4.1.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.5.0.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.6.0.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.6.1.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.7.0.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.8.0.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/1.8.1.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/2.0.0.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/2.0.1.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/2.0.2.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/2.0.3.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/2.0.4.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/2.0.5.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/2.1.0.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/2.2.0.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/2.2.1.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/2.3.0.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/release-notes/2.3.1.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/troubleshoot/index.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/troubleshoot/faq.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/troubleshoot/status.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/troubleshoot/troubleshooting.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/usage/cancel-backup.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/usage/delete-backup.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/usage/describe-backup.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/usage/list-backup.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/usage/logs.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/usage/oplog-replay.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/usage/pitr-tutorial.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/usage/restore-progress.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/usage/restore.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/usage/schedule-backup.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.percona.com/percona-backup-mongodb/0.1/usage/start-backup.html</loc>
          <lastmod>2025-01-28</lastmod>
-         <changefreq>daily</changefreq>
     </url>
 </urlset>
