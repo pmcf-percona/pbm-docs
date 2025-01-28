@@ -32,7 +32,9 @@ jobs:
           git worktree add _deploy gh-pages
       - run: |
           mkdocs build
-          mike deploy --update-aliases latest
+          mike deploy --push --update-aliases 0.1
+          mike deploy --push --update-aliases 0.2
+          mike alias --push latest 0.2
       - name: Push changes
         run: |
           cd _deploy
